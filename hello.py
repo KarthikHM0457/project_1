@@ -1,1 +1,1 @@
-print("Hel000lo")
+print("Hell")
