@@ -1,1 +1,1 @@
-print("Hw")
+print("H")
